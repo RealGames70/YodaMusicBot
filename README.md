@@ -4,3 +4,5 @@ Hello! You are on the Yoda Music discord bot page. Want it on your server? Here 
 It's completely free! Use whenever you want)
 
 Thank you for choosing us!
+
+Commands in his status!
